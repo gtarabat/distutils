@@ -1,6 +1,6 @@
-# How to install a Python package
+# How to install locally a Python package for development
 
-Create and ectivate an environment
+Create and activate an environment
 ```
 python3 -m venv test_env
 source test_env/bin/activate
