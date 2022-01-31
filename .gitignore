@@ -1,0 +1,5 @@
+*.egg-info/
+test_env/
+**/__pycache__/
+
+*.swp
